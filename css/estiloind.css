@@ -1,0 +1,134 @@
+@charset "UTF-8";
+
+body {
+
+    background-color: rgb(46, 46, 46) !important;
+}
+
+
+div#topo {
+    
+    font: 1em poppins;
+    color:white;
+    background-color: black;
+    padding: 25px;
+    /*position: absolute;
+    top: -20px;
+    left: -6px;
+    right: -6px;*/
+}
+
+div#topo hgroup#textot{
+
+    text-align: center;
+}
+
+img#apple{
+    
+}
+
+div#topo h1{
+   
+    text-align: center;
+}
+
+div#topo h3{
+
+    /*position:absolute;
+    right: 249px;
+    top: 63px;*/
+    text-align: center;
+}
+
+div#imagens img{
+
+    display: flow-root;
+    padding: 4px;
+    /*margin-left: auto;
+    margin-right: auto;*/
+    
+
+}
+
+div#imagens {
+
+    background-color: rgb(43, 40, 40);
+    padding: 10px;
+
+}
+
+div#c {
+
+    text-align: center;
+    background-color: rgb(32, 32, 32);
+    color: white;
+    padding: 20px;
+    font-family:Gill Sans, sans-serif !important;
+    font-weight: 600;
+    
+     
+}
+h2#i {
+
+    text-align: center !important;
+    font-family:Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif !important;
+    color:white !important;
+    
+}
+
+h2#is {
+
+    text-align: center !important;
+    font-family:Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif !important;
+    color:white !important;
+    
+}
+
+footer#rodape {
+
+    background-color: rgb(90, 90, 90) ;
+    color:white !important;
+    text-align: center !important;
+    border-top: 2px solid rgb(63, 63, 63) !important;
+    padding:5px;
+    border-left: 2px solid rgb(63, 63, 63);
+    border-right: 2px solid rgb(63, 63, 63);
+    border-bottom: 2px solid rgb(63, 63, 63);
+}
+
+a {
+    text-decoration: none !important;
+    color: white !important;
+}
+
+h5 {
+    text-align: center !important;
+    color:white !important;
+    font-family:Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif !important;
+
+}
+
+table {
+
+    /*margin-left:auto;*/
+    color:white;
+    border: 3px solid rgb(37, 37, 37);
+    background-color: rgb(61, 61, 61);
+    
+}
+
+table td{
+
+    font-family: Marker Felt, fantasy !important;
+    border:1px solid rgb(46, 46, 46);
+    padding:7px;
+    text-align: center;
+}
+
+caption{
+
+    font-family:Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif !important;
+    color:white !important;
+
+}
+/*Créditos a Fernando da Silva Costa Júnior*/
